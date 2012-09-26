@@ -9,4 +9,4 @@ Bugs
 --------------
 
 Se o número de peças passar de 3 a resposta sai inconclusiva (errada ou correta) em alguns casos.
-E é bem lento.
+O sistema se torna bem lento.
