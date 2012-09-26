@@ -1,0 +1,12 @@
+Exercicio Algoritimos Geneticos
+============================================
+
+Descrição
+-----------
+Exercicio proposto em sala de aula utilizando algoritimos genéticos.
+
+Bugs
+--------------
+
+Se o número de peças passar de 3 a resposta sai inconclusiva (errada ou correta) em alguns casos.
+E é bem lento.
